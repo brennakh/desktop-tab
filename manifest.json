@@ -9,5 +9,5 @@
     "chrome_url_overrides": {
         "newtab": "index.html"
     },
-    "homepage": "https://desktop-tab.netlify.app/"
+    "homepage": ""
 }
